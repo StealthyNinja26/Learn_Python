@@ -1,1 +1,2 @@
-print("hello world")
+x= input ("Enter input")
+print(x,type(x))
